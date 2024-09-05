@@ -19,12 +19,12 @@
                 <input type="submit" name="num" value="7">
                 <input type="submit" name="num" value="8">
                 <input type="submit" name="num" value="9">
-                <input type="submit" name="operation" value="/" class="operation">
+                <input type="submit" name="operation" value="÷" class="operation">
 
                 <input type="submit" name="num" value="4">
                 <input type="submit" name="num" value="5">
                 <input type="submit" name="num" value="6">
-                <input type="submit" name="operation" value="*" class="operation">
+                <input type="submit" name="operation" value="×" class="operation">
 
                 <input type="submit" name="num" value="1">
                 <input type="submit" name="num" value="2">
